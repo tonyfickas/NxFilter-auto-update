@@ -12,7 +12,8 @@ This is for made for: http://www.nxfilter.org/
 - f = force update (if you don't want the md5 hash check)
 
 **Lastest Download**
-- https://github.com/bikecrazyy/NxFilter-auto-update/raw/master/nxFilter-auto-update.exe
+
+[Download](https://github.com/bikecrazyy/NxFilter-auto-update/raw/master/nxFilter-auto-update.exe)
 
 
 **Setup**
