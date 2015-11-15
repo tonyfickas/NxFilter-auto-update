@@ -1,7 +1,11 @@
 # NxFilter-auto-update
 Auto update application for NxFilter, this will help reduce downtime on network as well provide scheduled updates from the shallalist
 
-This is for made for: http://www.nxfilter.org/
+This is for made for: NxFilter
+
+http://www.nxfilter.org/
+
+![nothing](http://www.nxfilter.org/p2/wp-content/uploads/2014/07/rb_logo41.png)
 
 **Why is this application different than using a .bat file?**
 - Check current version of filter list to see if update is required (checks local to server md5 hash before downloading)
